@@ -1,0 +1,116 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Alireza Baloochi</title>
+        <link>https://baloochi.me/posts/</link>
+        <description>Recent content in Posts on Alireza Baloochi</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://baloochi.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Wordpress Weaknesses</title>
+            <link>https://baloochi.me/posts/2021/10/wordpress-weaknesses/</link>
+            <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://baloochi.me/posts/2021/10/wordpress-weaknesses/</guid>
+            <description>After dealing with wordpress for 3 months, I come down to realize how crappy it is, a great example on what a project can become without a proper goal and heavy reliance on 3rd party code.
+Free? (Not quite) Wordpress is free but it costs something more than money, time.
+Even not considering the fact that most of the extensions will constantly bug you to buy their paid version. There is no standard for themes, or extensions or what sort of path they should follow.</description>
+            <content type="html"><![CDATA[<p>After dealing with wordpress for 3 months, I come down to realize how crappy it is, a great example on what a project can become without a proper goal and heavy reliance on 3rd party code.</p>
+<h3 id="free-not-quite">Free? (Not quite)</h3>
+<p>Wordpress is free but it costs something more than money, <strong>time</strong>.<br>
+Even not considering the fact that most of the extensions will constantly bug you to buy their paid version. There is no standard for themes, or extensions or what sort of path they should follow. Each creator sort of glues everything together and then releases it and calls it a day. So you have to look hours to change part of a text, or a variable that the creator forgot to include in settings and you have to manually search for it and edit it.</p>
+<h3 id="slow">Slow</h3>
+<p>Being slow is not something new, anything asociated with PHP will automatically get this feature for free. (Not that PHP is bad though, but wordpress is not optimized enough). A simple optimization and security testing is something every dev should do which is <strong>part of users RIGHTS</strong>, unless you are providing it as a beta and in a small scale form.<br>
+I&rsquo;ve done improvements from gziping all the packages, minifying the code, avoiding heavy pictures etc&hellip; but it&rsquo;s not as smooth as other proper websites.</p>
+<h3 id="plugins-plugins-and-plugins">Plugins, Plugins and Plugins!</h3>
+<p>For the most basic tasks you will need a plugin, a simple reset function requires a pluging, contact form is a pluging, SMTP for managing emails is a plugin, website migration is a plugin, and it continues. The devs could&rsquo;ve at least copy-pasted some plugings in the core project.<br>
+This modularity automatically brings exploits, each plugin introduces a new exploit and then you are in trouble.</p>
+<h3 id="open-source-morals">Open-source Morals</h3>
+<p>Why didn&rsquo;t I write this as Open source <em>rules</em>? because it doesn&rsquo;t contradict any. Morally open source projects should allow direct access of everything and take money for support or premium plans <strong>if you wish</strong> and not poke it into your eye everytime you install a plugin or a demo theme. This is not on devs but rather on the community.</p>
+<h3 id="solutions">Solutions?</h3>
+<p>As a felow smol web dev, I will still recommend it for small sites that don&rsquo;t need extensions that much, but for anything beyond that avoiding it seems the best solution. I wrote this website of mine as a static page, it is not as good looking but it&rsquo;s both fast, reliable and almost non-hackable.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Google Code-in</title>
+            <link>https://baloochi.me/posts/2019/12/google-code-in/</link>
+            <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+            
+            <guid>https://baloochi.me/posts/2019/12/google-code-in/</guid>
+            <description>The Journey It goes back all the way in November when Fedora Project tweeted that they need some Mentors for Google Code-in. Initially I didn&amp;rsquo;t knew what it was but after a simple search it was clear that it was a competition ran by Google.
+So Google provided all the backend and platform for open source organizations, which mentors of each org then creates tasks in the system, which then the student solves.</description>
+            <content type="html"><![CDATA[<p><img src="/img/photo/codein.png" alt="main page" title="Main page"></p>
+<h2 id="the-journey">The Journey</h2>
+<p>It goes back all the way in November when Fedora Project tweeted that they need some Mentors for Google Code-in. Initially I didn&rsquo;t knew what it was but after a simple search it was clear that it was a competition ran by Google.<br>
+<br>
+So Google provided all the backend and platform for open source organizations, which mentors of each org then creates tasks in the system, which then the student solves. At the end students will be rewarded goodies all supplied by Google.<br>
+<br>
+<img src="/img/photo/codein2.jpg" alt="Short Description">
+<br>
+It was clear that Google wants to be viewed as open-source supporter and get some love from the students, then also hiring talented ones, so Google gets a big piece here. (Although Open-source orgs can show their stuff too but much less compared to Google)<br>
+<br>
+See some info <a href="https://opensource.google/community/">here</a></p>
+<h2 id="getting-chosen">Getting chosen</h2>
+<p>Well after filling the simple form I was contacted by Vipul, the event manager that I should hand some draft tasks for him to analyse so I kept working and used my Internship Knowledge to create some server tasks, which was accepted by Vipul and I was in.<br>
+After a while we were given the link to register as mentor and deploy our tasks with markdown, everythign was straight forward and documented</p>
+<p><img src="/img/photo/codein3.jpg" alt="My tasks"></p>
+<h2 id="competition">Competition</h2>
+<p>Initially Studnts grabbed and then abandoned my tasks, which I was told that this is regular because they are getting familiar with the UI.<br>
+<br>
+After reviewing some submissions I was worried that the tasks are way to easy, so I removed some Documentation tasks to minimize spams. Then Created LaTeX and NextCloud ones instead, which students loved.<br>
+<br>
+After a week the submission amount was enormus, I got 50 ish tasks to review everyday, it was convenient and boring at the same time.<br>
+<br>
+We had some conferences at the end to choose the winners with other mentors, and after announcing winners and runner-ups, the event was ended.<br>
+<br>
+The only student form my Area (UAE, Dubai) actually won the first place, but never went to the Google Headquarters because of the Covid-19 pandemic. (Believe me it is very sad.)</p>
+<h2 id="what-i-got">What I got</h2>
+<p><br>
+<strong>My Goodies aren&rsquo;t shipped yet this is what we are &ldquo;supposed&rdquo; to get</strong><br>
+<br>
+<img src="https://prajwalpatiltech.files.wordpress.com/2017/02/img_20170222_161114-e1487761420101.jpg?w=775" alt="rewards"><br>
+<br>
+Well Physically: certificate and a T-shirt but the most important ones are friends and the experience which will top everything here.</p>
+<p><a href="https://codein.withgoogle.com">check the website</a><br>
+<a href="https://medium.com/@p4r4xor/my-journey-at-google-code-in-paraxor-8492c4b15eda">paraxor&rsquo;s awesome event description for students</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Robocup Asia-Pacific @ Dubai</title>
+            <link>https://baloochi.me/posts/2018/12/robocup-asia-pacific-dubai/</link>
+            <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+            
+            <guid>https://baloochi.me/posts/2018/12/robocup-asia-pacific-dubai/</guid>
+            <description>In December 1st we were told by our CS teacher that there will be a Robocup held in Dubai, I was really intrested and since the material they introduced was mostly graphical with some Arduino code in it, I decided to join although I had limited experience in both of these subjects. The school created a workshop + election process at friday, which consisted of using the code to run virtual robots in an area, which was powered by Microsoft Robotics suit and Nvidia PhysX.</description>
+            <content type="html"><![CDATA[<p>In December 1st we were told by our CS teacher that there will be a Robocup held in Dubai, I was really intrested and since the material they introduced
+was mostly graphical with some Arduino code in it, I decided to join although I had limited experience in both of these subjects.
+<br>
+<br>
+The school created a workshop + election process at friday, which consisted of using the code to run virtual robots in an area, which was powered by Microsoft Robotics suit and Nvidia PhysX. My team was elected to participate, since we have done the fastest lap by combining ultrasonic sensivity and follow the line sensors. (It was quite easy since we used a graphical user interface to program the virtual robots, which then translated into C++ code that the virtual bot executed.
+<br>
+<br>
+You can see some useful info in <a href="http://robocupap.org/index.php/dubai2018/">Event Website</a> and <a href="https://www.youtube.com/watch?v=6KHG87fK4LE">Event video</a>.
+<br>
+We won the election process and went for the master competition held in Dubai Knowledge village.
+<br>
+<br>
+The beginning of the event was easy since it was quite similar to what our school trained us for but the final levels were quite hard as the code should both run on the Physical and Virtual robot which was quite scary as sometimes the one that worked on the virtual bot didn&rsquo;t work on physical and vice versa.
+<br>
+<br>
+<img src="/img/photo/robo.jpg" alt="menu">
+<br>
+After lots of challenge our team <em>Pioneers</em> got the first place in U19 challenge which was quite nice, although we asked why the code gave different results on Physical and Virual, the company supplier told us that in order to make the virtual section more challenging they assigned some random values to initial velocity which gave weird results everytime in return. Some fine shots can be seen here:
+<br>
+<br>
+<img src="/img/photo/robo2.jpg" alt="menu">
+<br>
+<br>
+<img src="/img/photo/robo3.jpg" alt="menu"></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
