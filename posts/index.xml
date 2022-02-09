@@ -4,8 +4,57 @@
         <link>https://baloochi.me/posts/</link>
         <description>Recent content in Posts on Alireza Baloochi</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://baloochi.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>NFTs are horrible</title>
+            <link>https://baloochi.me/posts/2022/02/nfts-are-horrible/</link>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://baloochi.me/posts/2022/02/nfts-are-horrible/</guid>
+            <description>I believe the NFT society would hate me but considering that twitter and YouTube are trying to enter this space, it&amp;rsquo;s worth to discuss it.
+You can see a 2 hour video made by Folding Ideas about the topic which I strongly recommend, called Line Goes Up – The Problem With NFTs
+Since the text is too long I will split it up to different sections.
+Morality The whole concept of NFTs are buying something worthless and convincing someone to buy it at a higher price, the act itself carries 0 benefits (If not harm) for anyone.</description>
+            <content type="html"><![CDATA[<p>I believe the NFT society would hate me but considering that twitter and YouTube are trying to enter this space, it&rsquo;s worth to discuss it.<br>
+You can see a 2 hour video made by Folding Ideas about the topic which I strongly recommend, called <a href="https://youtu.be/YQ_xWvX1n9g">Line Goes Up – The Problem With NFTs</a><br>
+Since the text is too long I will split it up to different sections.</p>
+<h3 id="morality">Morality</h3>
+<p>The whole concept of NFTs are buying something worthless and convincing someone to buy it at a higher price, the act itself carries 0 benefits (If not harm) for anyone. It just amplifies one charecteristic of humans, <strong>Greed</strong>. In a classic method of trade, when setting aside the money, the end-user either:</p>
+<ul>
+<li>Solves one of their problems (Let&rsquo;s say buying a tool like a hammer, car for transport etc..)</li>
+<li>Gets food or a drink (Obvious reasons)</li>
+<li>Enjoys their time (Going to a concert, watching a movie)</li>
+<li>Learns something (Skill, Profession, Internship etc&hellip;)</li>
+</ul>
+<p>In comparison NFTs have only one motive &ldquo;MONEY&rdquo;, the seller, distributor, creator all are gathered just to make money.</p>
+<h3 id="economics">Economics</h3>
+<p>The whole NFT creation and the costs involved (Not to mention the transfer costs) are very inefficient. The amount of power the network draws does not make sense at all. Also do you know what happens when something which is not worth much is sold and bidded at a higher price brings? Inflation.</p>
+<p>If NFTs get used by other big companies like meta and youtube, we will experience extreme inflation, as NFTs become part of their assets and the prices are falsely driven up (by biders or people who own nfts), it creates an illusion of increase in capital while in practice it&rsquo;s not worth that much at all which creates inflation</p>
+<h3 id="security">Security</h3>
+<p>You might say: &ldquo;Well at least it&rsquo;s decentralized&rdquo;, and I&rsquo;m here to tell you it&rsquo;s not when the item is listed on a public website which is being run on a centralized server in order to be traded. A simple centralized encrypted tocken is a hundered times more protected than this method also, don&rsquo;t forget screenshots.</p>
+<h2 id="comparison-with-crypto">Comparison with crypto</h2>
+<p>The things I mentioned has a lot in common with crypto which is the point which I start to disagree with the mentioned video. Despite their similarities, crypto is an attempt to solve transactions and bank fees. (even though not a good one)</p>
+<p>A bank transaction from let&rsquo;s say US to Singapore involves multiple fees:</p>
+<ul>
+<li>Bank charges for international transfer</li>
+<li>Intermediary bank charges</li>
+<li>exchange fees</li>
+<li>Transaction fees (sometimes)</li>
+</ul>
+<p><em>Transaction time? 1 to 3 days</em></p>
+<p>Crypto fees (Bitcoin and Ethereum):</p>
+<ul>
+<li>one time fee of 10 ~ 20$</li>
+</ul>
+<p><em>transaction time? less than an hour</em><br>
+Also this is in a good world which crypto is widely accepted and banks don&rsquo;t charge fees from withdrawing through exchanges.</p>
+<p><strong>A better way</strong><br>
+There is a better way to execute this, good attempts are already made by Wise and CurrencyFair, WorldRemit etc&hellip; which they execute by peer 2 peer transfers. let&rsquo;s say you live in singapore and want to transfer to US and someone in US wants to transfer to singapore. Each of you transfer locally to the other persons end account. Of course this is again when both of you want to transfer the same amount. Which the above platforms solve by finding a good match. So crypto, despite of it&rsquo;s innovation still lacks wide acceptability and stable price and is not good for small transactions, Moreover the other person should spend it in local currency which the banks come again and take a bite. So you are back to square 1.</p>
+<p>All in all I think there are much bigger problems to solve at the moment rather than buying thousands of dollars of memes.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Wordpress Weaknesses</title>
