@@ -4,8 +4,51 @@
         <link>https://baloochi.me/posts/</link>
         <description>Recent content in Posts on Alireza Baloochi</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://baloochi.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Web 3</title>
+            <link>https://baloochi.me/posts/2022/05/web-3/</link>
+            <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://baloochi.me/posts/2022/05/web-3/</guid>
+            <description>So a lot of attention and advertisment is going towards web 3, I will show a small history of previous revisions of the web, a bit of explanation and my opinion towards it.
+Revisions: Web 1.0 The first ever web revision that consisted of static websites, for example news websites, company websites, personal websites (like the one here). Only a single person or entity had control over the data, to update or create new pages or data.</description>
+            <content type="html"><![CDATA[<p>So a lot of attention and advertisment is going towards web 3, I will show a small history of previous revisions of the web, a bit of explanation and my opinion towards it.</p>
+<h3 id="revisions">Revisions:</h3>
+<h4 id="web-10">Web 1.0</h4>
+<p>The first ever web revision that consisted of static websites, for example news websites, company websites, personal websites (like the one here). Only a single person or entity had control over the data, to update or create new pages or data.</p>
+<p><img src="/img/photo/web1.jpg" alt="Web 1.0"></p>
+<h4 id="web-20">Web 2.0</h4>
+<p>The current revision, this is were all the social media/blogs/online forms are. The site creator is not the only one controlling the data, users also generate content and participate in most parts of it, they can report other users in case of violation to even remove something. The catch is you are still bound to company&rsquo;s privacy policy, rules and other status while you are on the website, so there is not a 100% guaranteed freedom.</p>
+<p><img src="/img/photo/twitter.jpg" alt="Web 2.0"></p>
+<h3 id="the-elephant-in-the-room-web-30">The elephant in the room: Web 3.0</h3>
+<p>This is were all the hype is directed towards. The best example to this are NFTs, the web 3 characteristics are the following:</p>
+<h4 id="they-run-on-the-blockchain">They run on the blockchain:</h4>
+<p>Perhaps you are already familiar with this, they are almost non-hackable, very energy intensive and <em>non reversible</em> in case of any wrong input data (you can&rsquo;t even edit your tweets anyway), considering the methods of conversation or payment we already have is very safe and 90% of the errors are human made. (oh I tyoed the wrong Iban, I didn&rsquo;t spell the name right and so on&hellip;) the last bit can be problamatic.</p>
+<h4 id="there-are-not-bound-to-any-rules-or-very-minimal-rules">There are not bound to any rules or very minimal rules:</h4>
+<p>Right now you can create an NFT of anything, even copyrighted media. You might not be able to sell it though. (Hence the <em>minimal</em> rules)</p>
+<h4 id="the-data-can-travel-between-multiple-platforms">The data can travel between multiple platforms.</h4>
+<p>We already have this: E-mail! , you can send and receive emails from gmail, outlook, hotmail, mail.de etc&hellip; With web 3.0 you can easily move contents to other places. The multi-platform support we have today is through companies having contracts with each other (like sign-in with google) or some pre-determined standard (E-mail).</p>
+<h4 id="imporoved-privacy">imporoved privacy</h4>
+<p>Due to the <em>blockchain</em>. A bit arguable as username/password is all you need to lose. most platforms today are very safe while transmitting/storing data. 90% of the attacks happen on the user when they give away their passwords, or their passwords get phished by hackers. A protective measure is already made: 2 Factor Authentication.</p>
+<h3 id="my-opinion">My Opinion</h3>
+<p>You can see for the most benefits mentioned there are already some very good solutions in place, but is web 3.0 really better?
+The answer is No (With few key exceptions)
+Most of the people hyping web3 are from 2 categories:</p>
+<ul>
+<li>Money makers</li>
+<li>Enthusiasts</li>
+</ul>
+<p><strong>Let&rsquo;s start with the first category:</strong>
+Usually they are the people who will take money from investors to implement web 3 or work/research on it. They either get away with it or just delay the project until the forseeable future. The next category which I hate the most I call the &ldquo;leechers&rdquo;. They hype this thing up for their own financial benefits, NFT owners are a very large chunk of them, they simply want web 3 to get an increased value on their tokens without proper research/knowledge about the topic. You can read my previous post to see how that works.</p>
+<p><strong>Second category:</strong>
+They are engineers like you and me who are exsited about web3 as it brings new technologies and developments in this era. They follow a logic and have common sense.
+Now when these enginners shows some interest publicly about this topic, the leechers usually follow up and hype this thing up to the moon. &ldquo;Hey Professor X said he likes web 3 idea of decentralization, SO BUY OUR NFTS TO SECURE A PLACE IN THE METAVERSE.&rdquo; and you know the rest and where the problem is coming from.</p>
+<p>A proper company that manages to properly adapt web 3, work on it, squash the bugs and has a use for it for a good purpose are a the ones you should follow and look after. Research papers are a great start as well.</p>
+]]></content>
+        </item>
         
         <item>
             <title>NFTs are horrible</title>
